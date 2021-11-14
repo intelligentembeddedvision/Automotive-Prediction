@@ -1,0 +1,65 @@
+ # Total samples: 2331  # Training samples: 1699
+Compute social features: distance, bearing angle, smallest distance would reach
+100%|██████████████████████████████████████| 137/137 [00:00<00:00, 39036.66it/s]
+Extracting FCN features: fcn8s  7 classes
+100%|█████████████████████████████████████████| 685/685 [00:11<00:00, 60.10it/s]
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_50.pt
+test samples: 410
+Avg ADE,FDE (12)= (3.210, 6.195) | Min(20) ADE,FDE (12)= (2.470, 4.746)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_100.pt
+test samples: 410
+Avg ADE,FDE (12)= (2.353, 4.144) | Min(20) ADE,FDE (12)= (0.523, 0.849)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_150.pt
+test samples: 410
+Avg ADE,FDE (12)= (2.692, 4.454) | Min(20) ADE,FDE (12)= (1.042, 1.771)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_200.pt
+test samples: 410
+Avg ADE,FDE (12)= (2.385, 3.910) | Min(20) ADE,FDE (12)= (0.785, 1.295)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_250.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.478, 2.105) | Min(20) ADE,FDE (12)= (0.524, 0.775)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_300.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.664, 2.589) | Min(20) ADE,FDE (12)= (0.522, 0.688)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_350.pt
+test samples: 410
+Avg ADE,FDE (12)= (2.563, 4.228) | Min(20) ADE,FDE (12)= (0.575, 0.961)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_400.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.734, 2.790) | Min(20) ADE,FDE (12)= (0.496, 0.742)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_450.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.549, 2.509) | Min(20) ADE,FDE (12)= (0.436, 0.615)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_500.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.418, 2.339) | Min(20) ADE,FDE (12)= (0.497, 0.724)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_550.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.243, 2.048) | Min(20) ADE,FDE (12)= (0.472, 0.764)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_600.pt
+test samples: 410
+Avg ADE,FDE (12)= (0.886, 1.346) | Min(20) ADE,FDE (12)= (0.365, 0.537)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_650.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.242, 2.093) | Min(20) ADE,FDE (12)= (0.621, 1.066)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_700.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.063, 1.909) | Min(20) ADE,FDE (12)= (0.395, 0.696)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_750.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.108, 1.938) | Min(20) ADE,FDE (12)= (0.451, 0.772)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_800.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.329, 2.467) | Min(20) ADE,FDE (12)= (0.609, 1.231)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_850.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.006, 1.750) | Min(20) ADE,FDE (12)= (0.422, 0.749)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_900.pt
+test samples: 410
+Avg ADE,FDE (12)= (0.956, 1.732) | Min(20) ADE,FDE (12)= (0.411, 0.759)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_950.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.033, 1.910) | Min(20) ADE,FDE (12)= (0.413, 0.806)
+Loading model from checkpoints/aeegan-v3_sdd_nexus6/aeegan-v3_sdd_nexus6_1000.pt
+test samples: 410
+Avg ADE,FDE (12)= (1.085, 2.010) | Min(20) ADE,FDE (12)= (0.513, 1.003)
