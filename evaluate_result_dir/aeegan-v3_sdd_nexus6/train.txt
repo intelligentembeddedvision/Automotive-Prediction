@@ -1,0 +1,400 @@
+Epc=   5, Train ADE,FDE = (2.956, 5.464) | time = 34.6
+Epc=  10, Train ADE,FDE = (2.816, 5.183) | time = 34.9
+Epc=  15, Train ADE,FDE = (2.624, 4.825) | time = 34.7
+Epc=  20, Train ADE,FDE = (2.404, 4.431) | time = 34.8
+Epc=  25, Train ADE,FDE = (2.884, 5.310) | time = 34.7
+Epc=  30, Train ADE,FDE = (2.918, 5.341) | time = 34.7
+Epc=  35, Train ADE,FDE = (2.660, 4.886) | time = 34.7
+Epc=  40, Train ADE,FDE = (2.663, 4.797) | time = 34.9
+Epc=  45, Train ADE,FDE = (2.837, 4.585) | time = 34.8
+Epc=  50, Train ADE,FDE = (2.514, 4.447) | time = 34.8
+Epc=  55, Train ADE,FDE = (3.025, 5.126) | time = 35.1
+Epc=  60, Train ADE,FDE = (2.585, 4.520) | time = 34.8
+Epc=  65, Train ADE,FDE = (2.760, 4.827) | time = 34.8
+Epc=  70, Train ADE,FDE = (2.712, 4.639) | time = 34.8
+Epc=  75, Train ADE,FDE = (2.364, 4.054) | time = 34.7
+Epc=  80, Train ADE,FDE = (2.537, 4.469) | time = 34.8
+Epc=  85, Train ADE,FDE = (2.678, 4.637) | time = 34.8
+Epc=  90, Train ADE,FDE = (2.849, 5.010) | time = 34.8
+Epc=  95, Train ADE,FDE = (2.694, 4.869) | time = 34.8
+Epc= 100, Train ADE,FDE = (2.738, 4.812) | time = 34.9
+Epc= 105, Train ADE,FDE = (2.786, 4.828) | time = 34.8
+Epc= 110, Train ADE,FDE = (2.876, 4.809) | time = 34.7
+Epc= 115, Train ADE,FDE = (2.777, 4.912) | time = 34.8
+Epc= 120, Train ADE,FDE = (2.856, 4.916) | time = 34.8
+Epc= 125, Train ADE,FDE = (3.008, 5.237) | time = 34.7
+Epc= 130, Train ADE,FDE = (3.423, 6.145) | time = 34.8
+Epc= 135, Train ADE,FDE = (2.661, 4.652) | time = 34.8
+Epc= 140, Train ADE,FDE = (3.838, 6.643) | time = 34.8
+Epc= 145, Train ADE,FDE = (2.978, 5.117) | time = 34.3
+Epc= 150, Train ADE,FDE = (2.585, 4.506) | time = 34.8
+Epc= 155, Train ADE,FDE = (2.629, 4.556) | time = 34.3
+Epc= 160, Train ADE,FDE = (3.334, 5.794) | time = 34.6
+Epc= 165, Train ADE,FDE = (2.983, 5.482) | time = 34.2
+Epc= 170, Train ADE,FDE = (2.413, 4.434) | time = 34.2
+Epc= 175, Train ADE,FDE = (3.504, 6.286) | time = 34.4
+Epc= 180, Train ADE,FDE = (2.630, 4.707) | time = 34.8
+Epc= 185, Train ADE,FDE = (2.476, 4.203) | time = 34.2
+Epc= 190, Train ADE,FDE = (2.482, 4.259) | time = 34.7
+Epc= 195, Train ADE,FDE = (2.826, 4.572) | time = 34.6
+Epc= 200, Train ADE,FDE = (1.592, 2.655) | time = 34.2
+Epc= 205, Train ADE,FDE = (1.423, 2.399) | time = 34.1
+Epc= 210, Train ADE,FDE = (1.193, 2.040) | time = 34.4
+Epc= 215, Train ADE,FDE = (1.454, 2.529) | time = 34.7
+Epc= 220, Train ADE,FDE = (1.254, 2.181) | time = 34.2
+Epc= 225, Train ADE,FDE = (1.054, 1.861) | time = 34.8
+Epc= 230, Train ADE,FDE = (1.135, 1.859) | time = 34.8
+Epc= 235, Train ADE,FDE = (1.277, 2.248) | time = 34.3
+Epc= 240, Train ADE,FDE = (1.045, 1.824) | time = 34.2
+Epc= 245, Train ADE,FDE = (1.074, 1.802) | time = 34.8
+Epc= 250, Train ADE,FDE = (1.107, 1.930) | time = 34.2
+Epc= 255, Train ADE,FDE = (1.031, 1.819) | time = 34.4
+Epc= 260, Train ADE,FDE = (1.008, 1.759) | time = 34.2
+Epc= 265, Train ADE,FDE = (1.229, 2.034) | time = 34.3
+Epc= 270, Train ADE,FDE = (1.003, 1.743) | time = 34.5
+Epc= 275, Train ADE,FDE = (1.353, 2.263) | time = 34.4
+Epc= 280, Train ADE,FDE = (1.046, 1.786) | time = 34.3
+Epc= 285, Train ADE,FDE = (1.042, 1.835) | time = 34.4
+Epc= 290, Train ADE,FDE = (1.112, 1.925) | time = 34.5
+Epc= 295, Train ADE,FDE = (1.034, 1.800) | time = 34.3
+Epc= 300, Train ADE,FDE = (0.964, 1.734) | time = 34.4
+Epc= 305, Train ADE,FDE = (0.963, 1.709) | time = 34.3
+Epc= 310, Train ADE,FDE = (1.073, 1.878) | time = 34.5
+Epc= 315, Train ADE,FDE = (1.034, 1.826) | time = 34.8
+Epc= 320, Train ADE,FDE = (1.025, 1.816) | time = 34.4
+Epc= 325, Train ADE,FDE = (0.906, 1.669) | time = 34.3
+Epc= 330, Train ADE,FDE = (0.946, 1.711) | time = 34.3
+Epc= 335, Train ADE,FDE = (0.920, 1.659) | time = 34.7
+Epc= 340, Train ADE,FDE = (0.862, 1.523) | time = 34.3
+Epc= 345, Train ADE,FDE = (0.969, 1.741) | time = 34.6
+Epc= 350, Train ADE,FDE = (0.879, 1.559) | time = 34.3
+Epc= 355, Train ADE,FDE = (0.874, 1.583) | time = 34.7
+Epc= 360, Train ADE,FDE = (0.993, 1.749) | time = 34.8
+Epc= 365, Train ADE,FDE = (0.923, 1.662) | time = 34.5
+Epc= 370, Train ADE,FDE = (1.028, 1.907) | time = 34.3
+Epc= 375, Train ADE,FDE = (0.845, 1.573) | time = 34.7
+Epc= 380, Train ADE,FDE = (0.957, 1.772) | time = 34.8
+Epc= 385, Train ADE,FDE = (0.782, 1.424) | time = 34.6
+Epc= 390, Train ADE,FDE = (0.807, 1.471) | time = 34.9
+Epc= 395, Train ADE,FDE = (0.876, 1.579) | time = 34.7
+Epc= 400, Train ADE,FDE = (0.797, 1.451) | time = 34.5
+Epc= 405, Train ADE,FDE = (0.886, 1.643) | time = 34.5
+Epc= 410, Train ADE,FDE = (0.824, 1.526) | time = 34.1
+Epc= 415, Train ADE,FDE = (0.869, 1.595) | time = 34.8
+Epc= 420, Train ADE,FDE = (0.842, 1.539) | time = 34.4
+Epc= 425, Train ADE,FDE = (0.878, 1.630) | time = 34.6
+Epc= 430, Train ADE,FDE = (0.915, 1.678) | time = 34.5
+Epc= 435, Train ADE,FDE = (0.904, 1.662) | time = 34.4
+Epc= 440, Train ADE,FDE = (0.853, 1.551) | time = 34.5
+Epc= 445, Train ADE,FDE = (0.829, 1.516) | time = 34.7
+Epc= 450, Train ADE,FDE = (0.837, 1.518) | time = 34.4
+Epc= 455, Train ADE,FDE = (0.813, 1.468) | time = 34.8
+Epc= 460, Train ADE,FDE = (0.790, 1.404) | time = 34.5
+Epc= 465, Train ADE,FDE = (0.781, 1.392) | time = 34.7
+Epc= 470, Train ADE,FDE = (0.804, 1.431) | time = 34.6
+Epc= 475, Train ADE,FDE = (0.751, 1.350) | time = 34.9
+Epc= 480, Train ADE,FDE = (0.776, 1.400) | time = 34.5
+Epc= 485, Train ADE,FDE = (0.754, 1.345) | time = 34.3
+Epc= 490, Train ADE,FDE = (0.775, 1.384) | time = 34.3
+Epc= 495, Train ADE,FDE = (0.771, 1.384) | time = 34.5
+Epc= 500, Train ADE,FDE = (0.741, 1.334) | time = 34.1
+Epc= 505, Train ADE,FDE = (0.735, 1.344) | time = 34.3
+Epc= 510, Train ADE,FDE = (0.733, 1.314) | time = 34.7
+Epc= 515, Train ADE,FDE = (0.745, 1.347) | time = 34.8
+Epc= 520, Train ADE,FDE = (0.746, 1.358) | time = 34.5
+Epc= 525, Train ADE,FDE = (0.744, 1.350) | time = 34.4
+Epc= 530, Train ADE,FDE = (0.730, 1.336) | time = 34.3
+Epc= 535, Train ADE,FDE = (0.728, 1.328) | time = 34.6
+Epc= 540, Train ADE,FDE = (0.711, 1.295) | time = 34.1
+Epc= 545, Train ADE,FDE = (0.745, 1.349) | time = 34.7
+Epc= 550, Train ADE,FDE = (0.704, 1.295) | time = 34.1
+Epc= 555, Train ADE,FDE = (0.714, 1.307) | time = 34.4
+Epc= 560, Train ADE,FDE = (0.700, 1.266) | time = 34.8
+Epc= 565, Train ADE,FDE = (0.696, 1.271) | time = 34.6
+Epc= 570, Train ADE,FDE = (0.697, 1.274) | time = 34.8
+Epc= 575, Train ADE,FDE = (0.685, 1.253) | time = 34.1
+Epc= 580, Train ADE,FDE = (0.699, 1.305) | time = 34.5
+Epc= 585, Train ADE,FDE = (0.711, 1.317) | time = 34.2
+Epc= 590, Train ADE,FDE = (0.714, 1.330) | time = 34.8
+Epc= 595, Train ADE,FDE = (0.700, 1.281) | time = 34.3
+Epc= 600, Train ADE,FDE = (0.682, 1.264) | time = 34.7
+Epc= 605, Train ADE,FDE = (0.807, 1.490) | time = 34.7
+Epc= 610, Train ADE,FDE = (0.718, 1.330) | time = 34.6
+Epc= 615, Train ADE,FDE = (0.668, 1.237) | time = 34.3
+Epc= 620, Train ADE,FDE = (0.756, 1.392) | time = 34.2
+Epc= 625, Train ADE,FDE = (0.650, 1.203) | time = 34.4
+Epc= 630, Train ADE,FDE = (0.720, 1.297) | time = 34.7
+Epc= 635, Train ADE,FDE = (0.667, 1.200) | time = 34.6
+Epc= 640, Train ADE,FDE = (0.636, 1.178) | time = 34.4
+Epc= 645, Train ADE,FDE = (0.653, 1.183) | time = 34.4
+Epc= 650, Train ADE,FDE = (0.716, 1.336) | time = 34.7
+Epc= 655, Train ADE,FDE = (0.657, 1.207) | time = 34.6
+Epc= 660, Train ADE,FDE = (0.653, 1.178) | time = 34.5
+Epc= 665, Train ADE,FDE = (0.668, 1.207) | time = 34.6
+Epc= 670, Train ADE,FDE = (0.653, 1.201) | time = 34.4
+Epc= 675, Train ADE,FDE = (0.690, 1.249) | time = 34.8
+Epc= 680, Train ADE,FDE = (0.663, 1.204) | time = 34.6
+Epc= 685, Train ADE,FDE = (0.633, 1.149) | time = 34.8
+Epc= 690, Train ADE,FDE = (0.645, 1.182) | time = 34.3
+Epc= 695, Train ADE,FDE = (0.620, 1.116) | time = 34.8
+Epc= 700, Train ADE,FDE = (0.656, 1.204) | time = 34.1
+Epc= 705, Train ADE,FDE = (0.622, 1.118) | time = 34.7
+Epc= 710, Train ADE,FDE = (0.636, 1.140) | time = 34.5
+Epc= 715, Train ADE,FDE = (0.613, 1.092) | time = 34.6
+Epc= 720, Train ADE,FDE = (0.621, 1.128) | time = 34.6
+Epc= 725, Train ADE,FDE = (0.622, 1.139) | time = 34.3
+Epc= 730, Train ADE,FDE = (0.606, 1.103) | time = 34.3
+Epc= 735, Train ADE,FDE = (0.601, 1.082) | time = 34.4
+Epc= 740, Train ADE,FDE = (0.613, 1.112) | time = 34.2
+Epc= 745, Train ADE,FDE = (0.618, 1.125) | time = 34.5
+Epc= 750, Train ADE,FDE = (0.611, 1.114) | time = 34.8
+Epc= 755, Train ADE,FDE = (0.624, 1.131) | time = 34.5
+Epc= 760, Train ADE,FDE = (0.614, 1.137) | time = 34.8
+Epc= 765, Train ADE,FDE = (0.581, 1.056) | time = 34.1
+Epc= 770, Train ADE,FDE = (0.593, 1.077) | time = 34.8
+Epc= 775, Train ADE,FDE = (0.603, 1.082) | time = 34.3
+Epc= 780, Train ADE,FDE = (0.565, 1.028) | time = 34.8
+Epc= 785, Train ADE,FDE = (0.587, 1.076) | time = 34.7
+Epc= 790, Train ADE,FDE = (0.578, 1.052) | time = 34.7
+Epc= 795, Train ADE,FDE = (0.594, 1.068) | time = 34.6
+Epc= 800, Train ADE,FDE = (0.606, 1.095) | time = 34.1
+Epc= 805, Train ADE,FDE = (0.566, 1.022) | time = 34.3
+Epc= 810, Train ADE,FDE = (0.575, 1.056) | time = 34.8
+Epc= 815, Train ADE,FDE = (0.591, 1.065) | time = 34.8
+Epc= 820, Train ADE,FDE = (0.574, 1.047) | time = 34.6
+Epc= 825, Train ADE,FDE = (0.604, 1.110) | time = 34.9
+Epc= 830, Train ADE,FDE = (0.580, 1.046) | time = 34.7
+Epc= 835, Train ADE,FDE = (0.572, 1.033) | time = 34.8
+Epc= 840, Train ADE,FDE = (0.584, 1.070) | time = 34.8
+Epc= 845, Train ADE,FDE = (0.588, 1.077) | time = 34.4
+Epc= 850, Train ADE,FDE = (0.588, 1.080) | time = 34.8
+Epc= 855, Train ADE,FDE = (0.557, 1.014) | time = 34.4
+Epc= 860, Train ADE,FDE = (0.576, 1.061) | time = 34.8
+Epc= 865, Train ADE,FDE = (0.565, 1.032) | time = 34.2
+Epc= 870, Train ADE,FDE = (0.575, 1.080) | time = 34.7
+Epc= 875, Train ADE,FDE = (0.568, 1.029) | time = 34.4
+Epc= 880, Train ADE,FDE = (0.545, 1.001) | time = 34.6
+Epc= 885, Train ADE,FDE = (0.551, 1.003) | time = 34.8
+Epc= 890, Train ADE,FDE = (0.571, 1.043) | time = 34.5
+Epc= 895, Train ADE,FDE = (0.554, 1.027) | time = 34.5
+Epc= 900, Train ADE,FDE = (0.562, 1.041) | time = 34.7
+Epc= 905, Train ADE,FDE = (0.577, 1.081) | time = 34.4
+Epc= 910, Train ADE,FDE = (0.565, 1.048) | time = 34.8
+Epc= 915, Train ADE,FDE = (0.561, 1.027) | time = 34.4
+Epc= 920, Train ADE,FDE = (0.586, 1.094) | time = 34.6
+Epc= 925, Train ADE,FDE = (0.572, 1.050) | time = 34.3
+Epc= 930, Train ADE,FDE = (0.557, 1.025) | time = 34.5
+Epc= 935, Train ADE,FDE = (0.597, 1.091) | time = 34.6
+Epc= 940, Train ADE,FDE = (0.537, 1.008) | time = 34.4
+Epc= 945, Train ADE,FDE = (0.570, 1.062) | time = 34.4
+Epc= 950, Train ADE,FDE = (0.549, 1.025) | time = 34.4
+Epc= 955, Train ADE,FDE = (0.545, 0.994) | time = 34.3
+Epc= 960, Train ADE,FDE = (0.571, 1.060) | time = 34.5
+Epc= 965, Train ADE,FDE = (0.544, 1.016) | time = 34.7
+Epc= 970, Train ADE,FDE = (0.546, 1.030) | time = 34.5
+Epc= 975, Train ADE,FDE = (0.567, 1.055) | time = 34.1
+Epc= 980, Train ADE,FDE = (0.553, 1.049) | time = 34.2
+Epc= 985, Train ADE,FDE = (0.570, 1.068) | time = 34.8
+Epc= 990, Train ADE,FDE = (0.560, 1.051) | time = 34.5
+Epc= 995, Train ADE,FDE = (0.530, 0.980) | time = 34.7
+Epc=1000, Train ADE,FDE = (0.549, 1.040) | time = 34.4
+Epc=1005, Train ADE,FDE = (0.534, 1.017) | time = 34.9
+Epc=1010, Train ADE,FDE = (0.553, 1.045) | time = 34.8
+Epc=1015, Train ADE,FDE = (0.535, 1.018) | time = 34.8
+Epc=1020, Train ADE,FDE = (0.522, 0.991) | time = 34.2
+Epc=1025, Train ADE,FDE = (0.532, 1.010) | time = 34.1
+Epc=1030, Train ADE,FDE = (0.535, 0.996) | time = 34.5
+Epc=1035, Train ADE,FDE = (0.548, 1.050) | time = 34.4
+Epc=1040, Train ADE,FDE = (0.546, 1.040) | time = 34.4
+Epc=1045, Train ADE,FDE = (0.543, 1.041) | time = 34.3
+Epc=1050, Train ADE,FDE = (0.714, 1.358) | time = 34.5
+Epc=1055, Train ADE,FDE = (0.516, 0.982) | time = 34.3
+Epc=1060, Train ADE,FDE = (0.530, 1.026) | time = 34.7
+Epc=1065, Train ADE,FDE = (0.549, 1.082) | time = 34.5
+Epc=1070, Train ADE,FDE = (0.562, 1.095) | time = 34.4
+Epc=1075, Train ADE,FDE = (0.538, 1.041) | time = 34.2
+Epc=1080, Train ADE,FDE = (0.546, 1.045) | time = 34.8
+Epc=1085, Train ADE,FDE = (0.526, 1.000) | time = 34.8
+Epc=1090, Train ADE,FDE = (0.575, 1.091) | time = 34.3
+Epc=1095, Train ADE,FDE = (0.531, 1.006) | time = 34.8
+Epc=1100, Train ADE,FDE = (0.512, 0.978) | time = 34.5
+Epc=1105, Train ADE,FDE = (0.517, 0.993) | time = 34.4
+Epc=1110, Train ADE,FDE = (0.515, 0.971) | time = 34.8
+Epc=1115, Train ADE,FDE = (0.532, 1.028) | time = 34.6
+Epc=1120, Train ADE,FDE = (0.523, 1.020) | time = 34.6
+Epc=1125, Train ADE,FDE = (0.504, 0.979) | time = 34.4
+Epc=1130, Train ADE,FDE = (0.513, 0.980) | time = 34.3
+Epc=1135, Train ADE,FDE = (0.504, 0.969) | time = 34.7
+Epc=1140, Train ADE,FDE = (0.528, 1.020) | time = 34.9
+Epc=1145, Train ADE,FDE = (0.529, 1.025) | time = 34.6
+Epc=1150, Train ADE,FDE = (0.520, 0.994) | time = 34.7
+Epc=1155, Train ADE,FDE = (0.519, 1.007) | time = 34.9
+Epc=1160, Train ADE,FDE = (0.538, 1.027) | time = 34.6
+Epc=1165, Train ADE,FDE = (0.545, 1.085) | time = 34.7
+Epc=1170, Train ADE,FDE = (0.536, 1.068) | time = 34.3
+Epc=1175, Train ADE,FDE = (0.525, 1.034) | time = 34.4
+Epc=1180, Train ADE,FDE = (0.538, 1.067) | time = 34.5
+Epc=1185, Train ADE,FDE = (0.562, 1.123) | time = 34.4
+Epc=1190, Train ADE,FDE = (0.521, 1.025) | time = 34.4
+Epc=1195, Train ADE,FDE = (0.517, 1.014) | time = 34.2
+Epc=1200, Train ADE,FDE = (0.550, 1.087) | time = 34.9
+Epc=1205, Train ADE,FDE = (0.509, 0.986) | time = 34.4
+Epc=1210, Train ADE,FDE = (0.534, 1.048) | time = 34.8
+Epc=1215, Train ADE,FDE = (0.511, 1.002) | time = 34.8
+Epc=1220, Train ADE,FDE = (0.505, 0.994) | time = 34.9
+Epc=1225, Train ADE,FDE = (0.503, 0.976) | time = 34.8
+Epc=1230, Train ADE,FDE = (0.519, 1.032) | time = 34.2
+Epc=1235, Train ADE,FDE = (0.524, 1.027) | time = 34.8
+Epc=1240, Train ADE,FDE = (0.554, 1.090) | time = 34.5
+Epc=1245, Train ADE,FDE = (0.503, 0.994) | time = 34.3
+Epc=1250, Train ADE,FDE = (0.511, 1.015) | time = 34.8
+Epc=1255, Train ADE,FDE = (0.521, 1.023) | time = 34.9
+Epc=1260, Train ADE,FDE = (0.522, 1.039) | time = 34.6
+Epc=1265, Train ADE,FDE = (0.535, 1.058) | time = 34.7
+Epc=1270, Train ADE,FDE = (0.503, 0.971) | time = 34.4
+Epc=1275, Train ADE,FDE = (0.558, 1.093) | time = 34.8
+Epc=1280, Train ADE,FDE = (0.543, 1.059) | time = 34.3
+Epc=1285, Train ADE,FDE = (0.539, 1.046) | time = 34.8
+Epc=1290, Train ADE,FDE = (0.531, 1.050) | time = 34.1
+Epc=1295, Train ADE,FDE = (0.516, 1.018) | time = 34.2
+Epc=1300, Train ADE,FDE = (0.544, 1.064) | time = 34.7
+Epc=1305, Train ADE,FDE = (0.510, 1.002) | time = 34.2
+Epc=1310, Train ADE,FDE = (0.562, 1.111) | time = 34.5
+Epc=1315, Train ADE,FDE = (0.544, 1.060) | time = 34.4
+Epc=1320, Train ADE,FDE = (0.555, 1.097) | time = 34.8
+Epc=1325, Train ADE,FDE = (0.528, 1.036) | time = 34.8
+Epc=1330, Train ADE,FDE = (0.552, 1.085) | time = 34.8
+Epc=1335, Train ADE,FDE = (0.529, 1.041) | time = 34.4
+Epc=1340, Train ADE,FDE = (0.541, 1.071) | time = 34.8
+Epc=1345, Train ADE,FDE = (0.561, 1.093) | time = 34.6
+Epc=1350, Train ADE,FDE = (0.522, 1.015) | time = 34.4
+Epc=1355, Train ADE,FDE = (0.536, 1.048) | time = 34.8
+Epc=1360, Train ADE,FDE = (0.536, 1.038) | time = 34.4
+Epc=1365, Train ADE,FDE = (0.531, 1.040) | time = 34.7
+Epc=1370, Train ADE,FDE = (0.542, 1.057) | time = 34.2
+Epc=1375, Train ADE,FDE = (0.530, 1.046) | time = 34.5
+Epc=1380, Train ADE,FDE = (0.507, 0.988) | time = 34.6
+Epc=1385, Train ADE,FDE = (0.495, 0.975) | time = 34.6
+Epc=1390, Train ADE,FDE = (0.520, 1.017) | time = 34.9
+Epc=1395, Train ADE,FDE = (0.536, 1.043) | time = 34.9
+Epc=1400, Train ADE,FDE = (0.505, 1.000) | time = 34.6
+Epc=1405, Train ADE,FDE = (0.561, 1.068) | time = 34.5
+Epc=1410, Train ADE,FDE = (0.510, 0.994) | time = 34.2
+Epc=1415, Train ADE,FDE = (0.516, 1.004) | time = 34.4
+Epc=1420, Train ADE,FDE = (0.511, 1.000) | time = 34.3
+Epc=1425, Train ADE,FDE = (0.510, 0.995) | time = 34.8
+Epc=1430, Train ADE,FDE = (0.515, 1.000) | time = 34.7
+Epc=1435, Train ADE,FDE = (0.533, 1.041) | time = 34.5
+Epc=1440, Train ADE,FDE = (0.522, 1.019) | time = 34.7
+Epc=1445, Train ADE,FDE = (0.503, 0.968) | time = 34.9
+Epc=1450, Train ADE,FDE = (0.513, 0.989) | time = 34.3
+Epc=1455, Train ADE,FDE = (0.525, 1.023) | time = 34.9
+Epc=1460, Train ADE,FDE = (0.501, 0.962) | time = 34.4
+Epc=1465, Train ADE,FDE = (0.510, 0.978) | time = 34.8
+Epc=1470, Train ADE,FDE = (0.504, 0.986) | time = 34.4
+Epc=1475, Train ADE,FDE = (0.505, 0.971) | time = 34.2
+Epc=1480, Train ADE,FDE = (0.503, 0.972) | time = 34.3
+Epc=1485, Train ADE,FDE = (0.510, 0.976) | time = 34.3
+Epc=1490, Train ADE,FDE = (0.512, 0.988) | time = 34.6
+Epc=1495, Train ADE,FDE = (0.565, 1.074) | time = 34.7
+Epc=1500, Train ADE,FDE = (0.500, 0.962) | time = 34.2
+Epc=1505, Train ADE,FDE = (0.500, 0.968) | time = 34.4
+Epc=1510, Train ADE,FDE = (0.503, 0.957) | time = 34.9
+Epc=1515, Train ADE,FDE = (0.507, 0.968) | time = 34.3
+Epc=1520, Train ADE,FDE = (0.499, 0.947) | time = 34.6
+Epc=1525, Train ADE,FDE = (0.508, 0.966) | time = 34.6
+Epc=1530, Train ADE,FDE = (0.496, 0.952) | time = 34.3
+Epc=1535, Train ADE,FDE = (0.490, 0.923) | time = 34.7
+Epc=1540, Train ADE,FDE = (0.509, 0.975) | time = 34.5
+Epc=1545, Train ADE,FDE = (0.514, 0.972) | time = 34.5
+Epc=1550, Train ADE,FDE = (0.524, 1.015) | time = 34.7
+Epc=1555, Train ADE,FDE = (0.533, 1.004) | time = 34.7
+Epc=1560, Train ADE,FDE = (0.500, 0.951) | time = 34.6
+Epc=1565, Train ADE,FDE = (0.494, 0.941) | time = 34.2
+Epc=1570, Train ADE,FDE = (0.487, 0.928) | time = 34.3
+Epc=1575, Train ADE,FDE = (0.522, 0.982) | time = 34.4
+Epc=1580, Train ADE,FDE = (0.487, 0.919) | time = 34.5
+Epc=1585, Train ADE,FDE = (0.517, 0.975) | time = 34.7
+Epc=1590, Train ADE,FDE = (0.481, 0.899) | time = 34.5
+Epc=1595, Train ADE,FDE = (0.518, 0.956) | time = 34.6
+Epc=1600, Train ADE,FDE = (0.507, 0.952) | time = 34.6
+Epc=1605, Train ADE,FDE = (0.491, 0.919) | time = 34.5
+Epc=1610, Train ADE,FDE = (0.510, 0.958) | time = 34.6
+Epc=1615, Train ADE,FDE = (0.499, 0.931) | time = 34.9
+Epc=1620, Train ADE,FDE = (0.499, 0.937) | time = 34.4
+Epc=1625, Train ADE,FDE = (0.488, 0.899) | time = 34.8
+Epc=1630, Train ADE,FDE = (0.497, 0.923) | time = 34.2
+Epc=1635, Train ADE,FDE = (0.512, 0.948) | time = 34.5
+Epc=1640, Train ADE,FDE = (0.483, 0.893) | time = 34.7
+Epc=1645, Train ADE,FDE = (0.498, 0.924) | time = 34.5
+Epc=1650, Train ADE,FDE = (0.495, 0.932) | time = 34.7
+Epc=1655, Train ADE,FDE = (0.505, 0.936) | time = 34.8
+Epc=1660, Train ADE,FDE = (0.493, 0.905) | time = 34.1
+Epc=1665, Train ADE,FDE = (0.478, 0.882) | time = 34.2
+Epc=1670, Train ADE,FDE = (0.501, 0.933) | time = 34.5
+Epc=1675, Train ADE,FDE = (0.476, 0.877) | time = 34.8
+Epc=1680, Train ADE,FDE = (0.499, 0.926) | time = 34.4
+Epc=1685, Train ADE,FDE = (0.472, 0.871) | time = 34.5
+Epc=1690, Train ADE,FDE = (0.469, 0.867) | time = 34.1
+Epc=1695, Train ADE,FDE = (0.511, 0.949) | time = 34.4
+Epc=1700, Train ADE,FDE = (0.489, 0.900) | time = 34.8
+Epc=1705, Train ADE,FDE = (0.508, 0.932) | time = 34.7
+Epc=1710, Train ADE,FDE = (0.496, 0.902) | time = 34.5
+Epc=1715, Train ADE,FDE = (0.475, 0.871) | time = 34.6
+Epc=1720, Train ADE,FDE = (0.471, 0.860) | time = 34.6
+Epc=1725, Train ADE,FDE = (0.489, 0.893) | time = 34.7
+Epc=1730, Train ADE,FDE = (0.500, 0.906) | time = 34.9
+Epc=1735, Train ADE,FDE = (0.467, 0.830) | time = 34.7
+Epc=1740, Train ADE,FDE = (0.479, 0.864) | time = 34.6
+Epc=1745, Train ADE,FDE = (0.471, 0.849) | time = 34.9
+Epc=1750, Train ADE,FDE = (0.461, 0.829) | time = 34.9
+Epc=1755, Train ADE,FDE = (0.467, 0.834) | time = 34.3
+Epc=1760, Train ADE,FDE = (0.448, 0.805) | time = 34.7
+Epc=1765, Train ADE,FDE = (0.466, 0.834) | time = 34.5
+Epc=1770, Train ADE,FDE = (0.463, 0.828) | time = 34.6
+Epc=1775, Train ADE,FDE = (0.477, 0.864) | time = 34.7
+Epc=1780, Train ADE,FDE = (0.458, 0.822) | time = 34.5
+Epc=1785, Train ADE,FDE = (0.473, 0.833) | time = 34.5
+Epc=1790, Train ADE,FDE = (0.451, 0.808) | time = 34.2
+Epc=1795, Train ADE,FDE = (0.466, 0.840) | time = 34.4
+Epc=1800, Train ADE,FDE = (0.451, 0.797) | time = 34.3
+Epc=1805, Train ADE,FDE = (0.459, 0.820) | time = 34.4
+Epc=1810, Train ADE,FDE = (0.458, 0.811) | time = 34.8
+Epc=1815, Train ADE,FDE = (0.458, 0.819) | time = 34.5
+Epc=1820, Train ADE,FDE = (0.460, 0.820) | time = 34.4
+Epc=1825, Train ADE,FDE = (0.457, 0.811) | time = 34.3
+Epc=1830, Train ADE,FDE = (0.468, 0.838) | time = 34.9
+Epc=1835, Train ADE,FDE = (0.459, 0.812) | time = 34.3
+Epc=1840, Train ADE,FDE = (0.452, 0.799) | time = 34.6
+Epc=1845, Train ADE,FDE = (0.474, 0.853) | time = 34.4
+Epc=1850, Train ADE,FDE = (0.483, 0.862) | time = 34.4
+Epc=1855, Train ADE,FDE = (0.450, 0.790) | time = 34.4
+Epc=1860, Train ADE,FDE = (0.461, 0.829) | time = 34.4
+Epc=1865, Train ADE,FDE = (0.460, 0.812) | time = 34.7
+Epc=1870, Train ADE,FDE = (0.473, 0.846) | time = 34.8
+Epc=1875, Train ADE,FDE = (0.482, 0.865) | time = 34.4
+Epc=1880, Train ADE,FDE = (0.477, 0.850) | time = 34.3
+Epc=1885, Train ADE,FDE = (0.470, 0.845) | time = 34.2
+Epc=1890, Train ADE,FDE = (0.489, 0.864) | time = 34.8
+Epc=1895, Train ADE,FDE = (0.475, 0.838) | time = 34.4
+Epc=1900, Train ADE,FDE = (0.486, 0.866) | time = 34.3
+Epc=1905, Train ADE,FDE = (0.479, 0.848) | time = 34.5
+Epc=1910, Train ADE,FDE = (0.496, 0.894) | time = 34.4
+Epc=1915, Train ADE,FDE = (0.475, 0.840) | time = 34.7
+Epc=1920, Train ADE,FDE = (0.467, 0.820) | time = 34.5
+Epc=1925, Train ADE,FDE = (0.492, 0.893) | time = 34.7
+Epc=1930, Train ADE,FDE = (0.490, 0.878) | time = 34.5
+Epc=1935, Train ADE,FDE = (0.465, 0.829) | time = 34.1
+Epc=1940, Train ADE,FDE = (0.487, 0.879) | time = 34.6
+Epc=1945, Train ADE,FDE = (0.482, 0.854) | time = 34.3
+Epc=1950, Train ADE,FDE = (0.473, 0.844) | time = 34.4
+Epc=1955, Train ADE,FDE = (0.484, 0.858) | time = 34.5
+Epc=1960, Train ADE,FDE = (0.495, 0.894) | time = 34.6
+Epc=1965, Train ADE,FDE = (0.496, 0.895) | time = 34.6
+Epc=1970, Train ADE,FDE = (0.465, 0.833) | time = 34.3
+Epc=1975, Train ADE,FDE = (0.481, 0.853) | time = 34.8
+Epc=1980, Train ADE,FDE = (0.473, 0.844) | time = 34.2
+Epc=1985, Train ADE,FDE = (0.491, 0.899) | time = 34.5
+Epc=1990, Train ADE,FDE = (0.470, 0.843) | time = 34.2
+Epc=1995, Train ADE,FDE = (0.480, 0.855) | time = 34.1
+Epc=2000, Train ADE,FDE = (0.472, 0.833) | time = 34.4
